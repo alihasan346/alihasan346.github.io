@@ -4,6 +4,8 @@
  <head>
  <title>MTH4000 exercise</title>
 </head>
+
+<body>
 # alihasan346.github.io
 # 👋 Hello, I'm Ali!
 I’m a beginner coder currently learning Python at Queen Mary University of London (QMUL). I'm excited about diving into the world of programming and exploring the endless possibilities that technology offers.
@@ -19,4 +21,5 @@ I am passionate about coding and problem-solving. My goal is to one day write al
 - LinkedIn: www.linkedin.com/in/muhammad-ali-hasan-9456122b0
 - Email: muhammadalihasan.work@gmail.com
 </body>
+
 </html>
